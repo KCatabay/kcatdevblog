@@ -1,0 +1,10 @@
+---
+title:  "Veteran's Day"
+date:   2015-11-11 
+categories: blurb
+image: sass-conf.jpg
+---
+
+I didn't have to go to work today.  Today was great.  
+
+-Kyle
