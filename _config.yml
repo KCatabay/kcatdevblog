@@ -9,6 +9,7 @@
 title: KCDB - a dev blog
 email: kylecatabaydev@gmail.com
 description: A blog about web development exploration
+baseurl: '/kcatdevblog'
 url: "kcatdevblog.me" # the base hostname & protocol for your site
 twitter_username: kylecatabaydev
 github_username: KCatabay
