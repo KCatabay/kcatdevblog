@@ -1,6 +1,6 @@
 ---
-title:  "Story Time! JS project"
-date:   2015-12-07
+title: "Story Time! JS project"
+date: 2015-12-07
 categories: projects
 ---
 
